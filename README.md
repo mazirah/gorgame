@@ -18,7 +18,7 @@ The rules are as follows:
 USING THE SOURCE FILES
 
 In order to be able to use the gorgame package (run the main.go) you have to add it to your
-src folder. On Windows that's C:\Users\<username>\go\src
+src folder. On Windows that's C:\Users\<username>\go\src.
 main.go can be located in any folder you want as long as it's not another runnable go project.
 You can start the program using go run main.go command in the folder main.go is located.
 
