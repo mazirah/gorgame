@@ -13,7 +13,7 @@ The rules are as follows:
 3. Each green cell surrounded by up 0, 1, 4, 5, 7, or 8 green neighbours will become red in the next generation
 4. A green cell will stay green in the next generation if it has either 2, 3, or 6 green neighbours
 
-=================================================================================================================
+================================================================================================================
 
 USING THE SOURCE FILES
 
