@@ -12,3 +12,14 @@ The rules are as follows:
 2. A red cell will stay red in the next generation if it has either   0, 1, 2, 4, 5, 7 or 8 green neighbours
 3. Each green cell surrounded by up 0, 1, 4, 5, 7, or 8 green neighbours will become red in the next generation
 4. A green cell will stay green in the next generation if it has either 2, 3, or 6 green neighbours
+
+=============================================================================================================================
+
+USING THE SOURCE FILES
+
+In order to be able to use the gorgame package (run the main.go) you have to add it to your
+src folder. On Windows that's C:\Users\<username>\go\src
+main.go can be located in any folder you want as long as it's not another runnable go project.
+You can start the program using go run main.go command in the folder main.go is located.
+
+
